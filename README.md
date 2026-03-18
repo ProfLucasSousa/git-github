@@ -92,3 +92,6 @@ Este projeto é de código aberto e está disponível para fins educacionais.
 ---
 
 **Git não é difícil. Só é literal.**
+Joaquim Gaspardo Souza Moura
+1ESPI
+Adicionei um arquivo com informações de um Joaquimaluno, para a atividade do professor Lucas. 
