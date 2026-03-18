@@ -6,6 +6,9 @@
 
 Este repositório contém material educacional sobre **Git** e **GitHub**, focado em fundamentos, comandos essenciais e boas práticas de colaboração. O conteúdo é direto, prático e pensado para quem quer aprender sem perder tempo com teoria desnecessária.
 
+## O que é um repositórios?
+ Um repositório no GitHub é o **local de armazenamento centralizado de um projeto de software**, funcionando como uma pasta na nuvem que guarda arquivos, pastas, imagens e o histórico completo de revisões de código. Ele é a base do versionamento, permitindo colaborar com outros desenvolvedores, rastrear alterações e gerenciar projetos de forma remota
+
 ## 🎯 Objetivo
 
 Capacitar desenvolvedores a:
@@ -59,7 +62,7 @@ Fluxo colaborativo e boas práticas no GitHub:
 
 ## 💡 Destaques
 
-✅ **Linguagem direta** — sem enrolação, só o essencial  
+✅ **Linguagem direta** — sem enrolação, só o essencial 
 ✅ **Exemplos práticos** — comandos aplicáveis no dia a dia  
 ✅ **Estrutura clara** — separação entre Git local e GitHub remoto  
 ✅ **Boas práticas** — convenções de commit, fluxo de PR, proteção de branches  
