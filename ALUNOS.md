@@ -1,0 +1,3 @@
+- Felipe Rossano Pedrol
+- Engenharia de Software
+- Bazinga
