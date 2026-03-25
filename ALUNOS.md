@@ -1,1 +1,1 @@
-Bruno Araújo Castro - Engenharia de software. Vai Corinthians é tudo nosso.
+Bruno Araújo - Engeharia de Software , Vai Corinthians!
